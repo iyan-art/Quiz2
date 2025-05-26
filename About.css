@@ -1,0 +1,26 @@
+.about {
+  padding: 60px 20px;
+  background-color: #e8caca;
+  max-width: 900px;
+  margin: auto;
+}
+
+.about h2 {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.about-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.about-content ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.about-content li {
+  margin-bottom: 10px;
+}
